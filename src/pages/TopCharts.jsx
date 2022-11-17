@@ -1,6 +1,4 @@
-import axios from 'axios';
 import { useGetTopChartsQuery } from '../redux/services/shazamCore';
-
 import { Error, Loader, SongCard } from '../components';
 
 const TopCharts = () => {
