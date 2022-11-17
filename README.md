@@ -1,6 +1,8 @@
 # Sonar Sounds Lyrics project
 
-Fully funcitoning music player app built with React.js and Tailwind CSS!
+Fully functioning music player app built with React.js and Tailwind CSS!
+
+Check it out <a href="https://sonar-sounds-lyriks.netlify.app/">here</a>
 
 ## Setup
 
@@ -34,4 +36,5 @@ To set up a development environment, please follow these steps:
 
 ## Additonal Info 
 Follow this project by JSMastery
+
 # sonar-sounds
