@@ -1,6 +1,6 @@
 # Sonar Sounds Lyrics project
 
-Fully funcitoning music player app built with React.js!
+Fully funcitoning music player app built with React.js and Tailwind CSS!
 
 ## Setup
 
