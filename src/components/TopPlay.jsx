@@ -8,8 +8,9 @@ import PlayPause from './PlayPause';
 import { playPause, setActiveSong } from '../redux/features/playerSlice';
 import { useGetTopChartsQuery } from '../redux/services/shazamCore';
 
-// import 'swiper/css';
-// import 'swiper/css/free-mode';
+/* eslint import/no-unresolved: [2, { ignore: ['swiper/css'] }] */
+import 'swiper/css';
+import 'swiper/css/free-mode';
 
 const TopChartCard = ({ song, i, handlePauseClick, handlePlayClick, isPlaying }) => (
   <div className="w-full flex flex-row items-center hover:bg[#4c426e] py-2 p-4 rounded-lg cursor-pointer mb-2">
